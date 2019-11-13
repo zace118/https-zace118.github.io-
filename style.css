@@ -1,0 +1,98 @@
+/* This is for the body style */
+
+    body {
+        font-family: Arial;
+        color: #777;
+        background: #777;
+        width: 960px;
+        font-size: 18px;
+    }
+
+/* Header style */
+
+/* Can't seem to figure out why the difference between 0px and 1px is so giant under the padding property. Can't get space between the Header and Nav bar */
+
+    .header {
+        margin: 30px 10px;
+        text-align: center;
+        background: #ebebeb;
+        color: #777;
+        font-size: 10px;
+        width: 1000px;
+        height: 70px;
+    }
+
+/* Nav bar */
+
+    .topnav {
+        background-color: #ebebeb;
+        overflow: hidden;
+        text-align: center;
+        font-size: 10px;
+        margin: 30px 10px;
+        width: 1000px;
+        height: 70px;
+    }
+
+/* Section, Article, Mini box 1, Mini box 2 */
+
+    .section {
+        float: left;
+        background: #ebebeb;
+        font-size: 10px;
+        text-align: center;
+        margin: 15px 15px 15px 15px;
+        width: 495px;
+        height: 300px;
+    }
+
+        #article {
+            position: relative;
+            left: 50px;
+            margin-top: 10px;
+            background: #777;
+            color: #ebebeb;
+            width: 400px;
+            height: 250px;
+        }
+
+        #minibox1 {
+            margin-top: 25px;
+            margin-left: 20px;
+            margin-right: 20px;
+            background: #ebebeb;
+            color: #777;
+            height: 55px;
+        }
+
+        #minibox2 {
+            margin-top: 50px;
+            margin-left: 20px;
+            margin-right: 20px;
+            background: #ebebeb;
+            color: #777;
+            height: 55px;
+        }
+
+/* Aside */
+
+    .aside {
+        float: right;
+        background: #ebebeb;
+        font-size: 10px;
+        text-align: center;
+        margin: 15px 5px;
+        width: 425px;
+        height: 300px;
+    }
+
+/* Footer */
+
+    .footer {
+        clear: both;
+        background: #ebebeb;
+        font-size: 10px;
+        text-align: center;
+        width: 1000px;
+        height: 70px;
+    }
