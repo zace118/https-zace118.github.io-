@@ -53,26 +53,26 @@
             background: #777;
             color: #ebebeb;
             width: 400px;
-            height: 250px;
+            height: 225px;
         }
 
-        #minibox1 {
-            margin-top: 25px;
-            margin-left: 20px;
-            margin-right: 20px;
-            background: #ebebeb;
-            color: #777;
-            height: 55px;
-        }
+            #minibox1 {
+                margin-top: 25px;
+                margin-left: 20px;
+                margin-right: 20px;
+                background: #ebebeb;
+                color: #777;
+                height: 55px;
+            }
 
-        #minibox2 {
-            margin-top: 50px;
-            margin-left: 20px;
-            margin-right: 20px;
-            background: #ebebeb;
-            color: #777;
-            height: 55px;
-        }
+            #minibox2 {
+                margin-top: 50px;
+                margin-left: 20px;
+                margin-right: 20px;
+                background: #ebebeb;
+                color: #777;
+                height: 55px;
+            }
 
 /* Aside */
 
